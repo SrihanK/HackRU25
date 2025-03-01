@@ -80,4 +80,4 @@ RiskFreeRX enhances medication safety by providing users with a simple yet effec
 
 ## Contributors
 
-Aaron Wu, Jordan Shamai, Shrihan Kakarlapudi
+Aaron Wu, Jordan Shamai, Srihan Kakarlapudi
